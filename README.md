@@ -1,6 +1,6 @@
 # ESRA-RUDynamics-Board
 
-<img width="746" height="744" alt="ESRA_PDB_Gonzalo" src="https://github.com/user-attachments/assets/e6ccf14f-9f40-4c8a-a40f-abbb50b4871c" />
+<img width="446" height="444" alt="ESRA_PDB_Gonzalo" src="https://github.com/user-attachments/assets/e6ccf14f-9f40-4c8a-a40f-abbb50b4871c" />
 
 This is V3 of the Rutgers Dynamics power distribution board, building off of the original board designed by the Columbia University Robotics team. This is also my first power distribution board design. 
 
